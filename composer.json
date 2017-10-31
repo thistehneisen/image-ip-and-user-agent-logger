@@ -1,0 +1,5 @@
+{
+    "require": {
+        "imagecow/imagecow": "^2.2"
+    }
+}
