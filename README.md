@@ -9,7 +9,7 @@ Grab visitors IP address and user agent without him knowing a thing.
 - Composer
 
 ## Installation:
-1. git pull https://github.com/thistehneisen/image-ip-and-user-agent-logger
+1. git clone https://github.com/thistehneisen/image-ip-and-user-agent-logger
 2. composer install
 
 ## Notes:
